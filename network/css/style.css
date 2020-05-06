@@ -441,11 +441,6 @@ background-position: -171px -13px;
 background-position: -51px -13px;
 }
 
-#mainpanel .moreinformation {
-background: url('../images/info.png');
-background-repeat: no-repeat;
-margin-left: 5px;
-}
 
 #copyright {
 	margin:0 auto;	
